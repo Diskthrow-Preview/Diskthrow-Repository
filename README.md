@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <body bgcolor = "lightgrey">
   <html>
     <title> Welcome to the official diskthrow operating system page!</title>
